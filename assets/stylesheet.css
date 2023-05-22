@@ -1,0 +1,15 @@
+.char {
+    background-color: lightgray;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    z-index: 3;
+}
+
+.charimg {
+    margin-top: 10px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    z-index: 1;
+}
