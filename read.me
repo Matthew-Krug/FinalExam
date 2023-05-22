@@ -1,0 +1,42 @@
+HEROES:
+    Agriculture guy:
+        - doctor
+        - specializes in plants
+        - creates concoctions and exlixers
+        - support character
+
+    Researcher:
+        - a librarian
+        - lost in time (mostly unknown, sometimes rumored about)
+        - plenty of books containing ancient information
+
+Villains:
+    Poisoner:
+        - uses curses and diseases
+        - former adventurer
+        - betrayed by his guild
+        - DOT damage
+        appearance: 
+
+
+
+World Design:
+    - adventurers and magicians
+    - beasts roam the forests
+    - adventurers's guild 
+
+    Adventurers Guideline:
+        - Magic: Fire, Water, Earth
+        - Weapons: Swords, Rapiers, spears
+        - Equipment: regular stuff + enchantments, runes
+
+Web Design:
+    Fandom/wiki style
+    Right side of screen has the character information
+    There is also a reccommended tab for other heros/Villains
+
+
+Color ideas:
+    Primary- #43d6a2 (green kinda) or #f9291a (red)
+    Secondary- #f8efde or #ffffff (white)
+    Accent- #6a2092 (purple) or #f9991a
