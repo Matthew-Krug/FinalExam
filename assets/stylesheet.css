@@ -1,5 +1,10 @@
+body {
+    background-color: rgb(230, 228, 228);
+    font-size: 16px;
+}
+
 .char {
-    background-color: lightgray;
+    background-color: #30413c3a;
     width: 120px;
     height: 120px;
     text-align: center;
@@ -7,9 +12,70 @@
 }
 
 .charimg {
-    margin-top: 10px;
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     text-align: center;
-    z-index: 1;
+    margin-top: 10px;
 }
+
+.chartxt {
+    color: #6a2092;
+    /* Color will change depending on the villain/heros personality */
+}
+
+.reccomended {
+    margin-left: 200px;
+    background-color: #30413c3a;
+    border: 2px solid black;
+    width: 860px;
+}
+
+.titlefandom {
+    color: #97621c;
+}
+
+.characterlist {
+    padding: 5px;
+}
+
+.titlehead {
+    background-color: lightsteelblue;
+    border: 3px solid mediumblue;
+    border-radius: 3vmax;
+}
+
+.titlefandom {
+    text-align: center;
+}
+
+.maincontent {
+    width: 850px;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 50px;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+.descriptions {
+    border: 2px solid black;
+    padding: 3px;
+    float: right;
+    width: 300px;
+    height: 400px;
+    margin-top: -414px;
+}
+
+.fancy {
+    font-style: italic;
+    color: black;
+}
+
+
+/* PLACE HOLDERS
+
+.content {
+
+}
+
+*/
